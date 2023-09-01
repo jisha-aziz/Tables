@@ -18,7 +18,6 @@ const App = () => {
     address:'',
     phoneNumber:'',
     email:''
-
   })
   const[editContactId, setEditContactId] = useState(null);
 
